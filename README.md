@@ -9,4 +9,4 @@ Generate (test) empty commit:
 
 *Note:* the `_fail` branch is meant to fail on [Bitrise.io](https://www.bitrise.io), for testing
 
-just some tests
+just some testings
